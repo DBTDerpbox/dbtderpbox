@@ -10,7 +10,7 @@ Main project: [Legacy Edition Battle](https://github.com/DBTDerpbox/Legacy-Editi
 
 Things I plan to work on *eventually*: [Legacy Edition Glide](https://github.com/DBTDerpbox/Legacy-Edition-Glide), Legacy Edition Tumble, [Mob Arena](https://github.com/DBTDerpbox/Derpboxs-Mob-Arena)
 
-Things I consider complete: [Color Changer my beloved](https://github.com/DBTDerpbox/Color-Changer), [Trident Shards](https://github.com/DBTDerpbox/Trident-Shards), [Glowier Berries](https://github.com/DBTDerpbox/Glowier-Berries), [MC Plural Proxy](https://github.com/DBTDerpbox/MC-Plural-Proxy)
+Things of note I consider complete: [Color Changer my beloved](https://github.com/DBTDerpbox/Color-Changer), [Trident Shards](https://github.com/DBTDerpbox/Trident-Shards), [Glowier Berries](https://github.com/DBTDerpbox/Glowier-Berries), [MC Plural Proxy](https://github.com/DBTDerpbox/MC-Plural-Proxy)
 
 <!--
 **DBTDerpbox/dbtderpbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

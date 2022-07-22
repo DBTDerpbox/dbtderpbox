@@ -1,7 +1,9 @@
-### 👋🏼
+Hi, i'm Emmie
 
-![DBTDerpbox's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBTDerpbox&theme=radical&show_icons=true)
-![DBTDerpbox's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBTDerpbox&theme=radical)
+She/Her please
+
+![Emmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBTDerpbox&theme=radical&show_icons=true)
+![Emmie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBTDerpbox&theme=radical)
 
 I like, do cool stuff with MCF because i'm too lazy to learn java
 

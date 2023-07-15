@@ -13,9 +13,9 @@ I *try* to be available, but I can be quite busy, if you need me I can be found 
 
 Check out my [Crafting Tweaks Collection](https://github.com/DBTDerpbox/dbtderpbox/blob/main/crafting-tweaks.md)
 
-Main project: [Legacy Edition Battle](https://github.com/DBTDerpbox/Legacy-Edition-Battle)
+Main project: [Legacy Edition Minigames](https://github.com/DBTDerpbox/Legacy-Edition-Battle)
 
-Things I plan to work on *eventually*: [Legacy Edition Glide](https://github.com/DBTDerpbox/Legacy-Edition-Glide), Legacy Edition Tumble, LCE Tutorial Ports, [Mob Arena](https://github.com/DBTDerpbox/Derpboxs-Mob-Arena)
+Things I plan to work on *eventually*: Legacy Edition Minigames: Tumble & Glide, LCE Tutorial Ports, [Mob Arena](https://github.com/DBTDerpbox/Derpboxs-Mob-Arena)
 
 Things of note I consider complete: [Color Changer my beloved](https://github.com/DBTDerpbox/Color-Changer), [Trident Shards](https://github.com/DBTDerpbox/Trident-Shards), [Glowier Berries](https://github.com/DBTDerpbox/Glowier-Berries), [MC Plural Proxy](https://github.com/DBTDerpbox/MC-Plural-Proxy)
 

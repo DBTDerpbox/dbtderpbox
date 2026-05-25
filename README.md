@@ -2,7 +2,7 @@ Hi, i'm Emmie
 
 She/Her please
 
-I've done some cool stuff with Datapack but want to move to making mods in Java, whenever I find the time
+I've done some cool stuff with Datapacks but want to move to making mods in Java, whenever I find the time
 
 I *try* to be available, but I can be quite busy, if you need me I can be found on PMC and the LEM Discord
 
